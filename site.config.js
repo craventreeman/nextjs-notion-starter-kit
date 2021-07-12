@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  name: '书',
+  domain: 'https://www.notion.so/625c6036591e43f48ac869493f420e3d?v=72ec7da215bd4bb0a79e4ee1f7bdd397',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  github: 'craventreeman',
   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
